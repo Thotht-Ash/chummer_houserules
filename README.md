@@ -1,0 +1,1 @@
+Clone this into your chummer data directory and pray that it works.
