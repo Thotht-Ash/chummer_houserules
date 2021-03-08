@@ -1,0 +1,30 @@
+<chummer>
+	<categories>
+		<category blackmarket="Vehicles" >Rotorcraft</category>
+	</categories>
+	<vehicles>
+		<vehicle>
+		  <id>8f505658-8ffb-4b96-a880-56d151012af0</id>
+		  <name>Hughes Stallion WK-2F</name>
+		  <source>HS</source>
+		  <accel>4</accel>
+		  <armor>16</armor>
+		  <avail>12</avail>
+		  <body>16</body>
+		  <category>Rotorcraft</category>
+		  <cost>330000</cost>
+		  <handling>5</handling>
+		  <pilot>2</pilot>
+		  <sensor>2</sensor>
+		  <speed>5</speed>
+		  <gears>
+			<gear>
+			  <name>Sensor Array</name>
+			  <rating>2</rating>
+			  <maxrating>7</maxrating>
+			</gear>
+		  </gears>
+		  <seats>8</seats>
+		</vehicle>
+	</vehicles>
+</chummer>

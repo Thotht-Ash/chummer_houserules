@@ -1,0 +1,25 @@
+<chummer>
+   <categories>
+      <category>Negative</category>
+	  <category>Positive</category>
+   </categories>
+   <qualities>
+        <quality>
+		   <id>8f505658-8ffb-4b96-a880-56d151012af0</id>
+		   <name>Dry</name>
+		   <karma>-7</karma>
+		   <category>Negative</category>
+		   <limit>1</limit>
+		   <bonus />
+		   <forbidden>
+				<oneof>
+					<quality>Addiction (Mild)</quality>
+					<quality>Addiction (Moderate)</quality>
+					<quality>Addiction (Severe)</quality>
+				</oneof>
+			</forbidden>
+		   <source>HS</source>
+		   <page>1</page>
+		</quality>
+   </qualities>
+</chummer>
